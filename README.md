@@ -1,14 +1,64 @@
-## Hola, mi nombre es Manuel Nuñez y soy un Desarrollador Web
+<br>
 
-# Acabo de terminar un Bootcamp que duro aproximadamente 5 meses, de Desarrollador Web Full Stack Javascript
-En al cual adquiri conocimientos multiples tanto en Front end como Back End, el programa que se utilizo fue Visual Studio Code
+<h1 align="center">👋 ¡Hola! Soy Manuel Nuñez</h1>
 
-1. Front End:
-   - Aqui aprendi mas a fondo sobre HTML, CSS y su libreria Bootstrapm aunque tambien me gustaria echarle una miradita a Tailwind CSS
-   - Me adentre en el mundo de Javascript vanilla ECMA 6, y tengo pensado adquirir conocimientos de React o Angular a futuro
-   - En Javascript aprendi sobre como darle interacciones a la web con las funciones click, onclick, entre otras; obtener y guardar datos desde formularios, aparte de leer informacion desde archivos JSON o directamente desde apis web o locales mediante fetch, jquery o axios.
-2. Back End:
-   - Principalmente usamos Node como herramienta en la funcion para crear APIs RESTful, lo que implica la implementación de CRUD (Create, Read, Update, Delete) sobre nuestros datos, levantar servidores, gestionar base de datos, aunque luego supe de la existencia de Deno(mismos creadores), pero aun no lo pongo en practica.
-   - Como frameworks de Node, mediante NPM los mas usados fueron Express.js, hbs, Sequelize, express-fileupload, JWT, dotenv.
-   - Respecto a Base de Datos, se utilizo PostgreSQL nativamente, o directamente desde mismo Node con las dependencias pg y pg-hstore mediante Sequelize.
-   - Me gustaria investigar mas a fondo sobre otras base de datos mas usadas como MySQL, Oracle, MongoDB, etc
+<br clear="both">
+
+<h3 align="center">Desarrollador en formación con ganas de crear cosas útiles y seguir aprendiendo cada día.</h3>
+
+<br>
+
+<hr>
+
+<br>
+
+<h2 align="center">🚀 Conocimientos Técnicos</h2>
+
+<br>
+
+<h3 align="center">🌐 Frontend</h3> 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=14"/>
+  </a>
+</p>
+
+<h3 align="center">🔧 Backend</h3> 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">🛠️ Herramientas </h3> 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ps&perline=14" />
+  </a>
+</p>
+
+<h3 align="center">📚 Explorando</h3> 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=py,react,angular,mongodb&perline=14" />
+  </a>
+</p>
+
+<br>
+
+<hr>
+
+<br>
+
+<h2 align="center">📫 Contacto </h2>
+<div align="center">
+   <a href="mailto:menegerdelen@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+   </a>
+   <a href="https://www.linkedin.com/in/menegerdelen/">
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+   </a>
+   
+</div>
+
+<br>
