@@ -19,28 +19,28 @@
 <h3 align="center">🌐 Frontend</h3> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,js&perline=14"/>
   </a>
 </p>
 
 <h3 align="center">🔧 Backend</h3> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,sequelize&perline=14" />
   </a>
 </p>
 
 <h3 align="center">🛠️ Herramientas </h3> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,ps,pycharm,vscode&perline=14" />
   </a>
 </p>
 
 <h3 align="center">📚 Explorando</h3> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,react,angular,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=angular,mongodb,py,react,tailwind,ts&perline=14" />
   </a>
 </p>
 
@@ -51,6 +51,9 @@
 <br>
 
 <h2 align="center">📫 Contacto </h2>
+
+<br>
+
 <div align="center">
    <a href="mailto:menegerdelen@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
