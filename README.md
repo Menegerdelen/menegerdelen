@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Manuel Nuñez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack;Siempre+Aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+en+formacion...;Siempre+aprendiendo" alt="Typing SVG" />
 
 <br/>
 
@@ -29,17 +29,15 @@
 const manuel = {
     ubicacion: "Santiago, Chile 🇨🇱",
     enfoque: "Desarrollador Full Stack",
-    pasiones: ["Código limpio", "Buenas prácticas", "Problem Solving"]
+    pasiones: ["Código limpio", "Buenas prácticas", "Videojuegos"]
 };
 ```
 
 🔭 Actualmente trabajando en proyectos Full Stack con Node.js
 
-🌱 Perfeccionando React, TypeScript y arquitectura de software
+🌱 Explorando React, TypeScript, Python
 
-💬 Pregúntame sobre JavaScript, Node.js, PostgreSQL
 
-⚡ Dato curioso: Me encanta optimizar código hasta el último detalle
 
 <br clear="both"/>
 
