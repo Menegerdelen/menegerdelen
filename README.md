@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Manuel Nuñez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+en+formacion...;Siempre+aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+en+formación...;Siempre+aprendiendo" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
   
 [![Email](https://img.shields.io/badge/📧_Envíame_un_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menegerdelen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🤝_Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menegerdelen/)
-[![Portafolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://github.com/menegerdelen)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://github.com/menegerdelen)
 
 </div>
 
