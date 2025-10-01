@@ -15,7 +15,7 @@
   
 [![Email](https://img.shields.io/badge/📧_Envíame_un_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menegerdelen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🤝_Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menegerdelen/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://github.com/menegerdelen)
+[![Portafolio](https://img.shields.io/badge/Portafolio-212529?style=for-the-badge&logo=github&logoColor=white&labelColor=212529)](https://github.com/menegerdelen)
 
 </div>
 
@@ -64,6 +64,7 @@ const manuel = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-F05020?style=for-the-badge&logo=postman&logoColor=white" />
 
 ### 🌱 Aprendiendo
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
