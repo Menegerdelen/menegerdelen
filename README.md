@@ -1,101 +1,218 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Manuel Nuñez
+# 👋 ¡Hola! Soy Manuel Núñez
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+en+formación...;Siempre+aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1500&color=00D8FF&center=true&vCenter=true&width=900&lines=🎮+Game+QA+Tester;🐞+Bug+Hunter;📋+Gameplay+Analyst;💻+Desarrollador+Web+Full+Stack;🚀+Siempre+Aprendiendo" />
 
-<br/>
+### 🎮 Game QA Tester | 💻 Desarrollador Web Full Stack
 
-*🚀 Desarrollador Full Stack*
+*"Un buen bug report vale más que cien bugs reportados sin contexto."*
 
-<br/>
+<br>
 
-### 📫 ¡Conectemos!
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/📧_Envíame_un_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menegerdelen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝_Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menegerdelen/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-212529?style=for-the-badge&logo=github&logoColor=white&labelColor=212529)](https://github.com/menegerdelen)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menegerdelen@gmail.com)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menegerdelen/)
+
+[![GitHub](https://img.shields.io/badge/Portafolio_QA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menegerdelen)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mí
+# 👨‍💻 Sobre mí
 
-```javascript
-const manuel = {
-    ubicacion: "Santiago, Chile 🇨🇱",
-    enfoque: "Desarrollador Full Stack",
-    pasiones: ["Código limpio", "Buenas prácticas", "Videojuegos"]
-};
+Soy un entusiasta del **Game QA** y estudiante de **Desarrollo Web Full Stack** de Chile 🇨🇱.
+
+Mi objetivo es especializarme en **Quality Assurance para videojuegos**, documentando bugs de manera clara, reproducible y orientada al desarrollador.
+
+Gracias a mi formación en desarrollo web entiendo cómo piensa un programador al momento de depurar un problema, por lo que intento entregar reportes que faciliten el trabajo del equipo de desarrollo.
+
+Actualmente estoy construyendo un **portafolio de Game QA**, realizando playtests de videojuegos, comparando builds, documentando regresiones, analizando UX/UI y creando reportes técnicos respaldados con imágenes, videos y pasos de reproducción.
+
+---
+
+# 🎮 Especialización Game QA
+
+## 🧪 Tipos de Testing
+
+- ✔ Functional Testing
+- ✔ Exploratory Testing
+- ✔ Regression Testing
+- ✔ Destructive Testing
+- ✔ Gameplay Testing
+- ✔ UI Testing
+- ✔ UX Testing
+- ✔ Performance Observation
+- ✔ Compatibility Observation
+- ✔ Smoke Testing
+
+---
+
+## 📋 Documentación de Bugs
+
+Cada reporte incluye:
+
+- 📝 Descripción del problema
+- 🔄 Pasos para reproducir
+- 🎯 Resultado esperado
+- ❌ Resultado obtenido
+- ⚠ Impacto en Gameplay
+- 💡 Workaround (si existe)
+- 🖥 Especificaciones del Hardware
+- 📷 Evidencia mediante imágenes
+- 🎥 Evidencia mediante video
+- 📌 Timestamp del bug
+
+---
+
+# 🔍 Mi metodología de Testing
+
+Cada sesión de pruebas sigue un flujo similar:
+
+```text
+Inicio del Playtest
+
+↓
+
+Configuración inicial
+
+↓
+
+Revisión de UX/UI
+
+↓
+
+Happy Path
+
+↓
+
+Exploratory Testing
+
+↓
+
+Destructive Testing
+
+↓
+
+Performance Observation
+
+↓
+
+Documentación
+
+↓
+
+Comparación entre Builds (si aplica)
+
+↓
+
+Reporte Final
 ```
 
-🔭 Actualmente trabajando en proyectos Full Stack con Node.js
+Mi objetivo no es encontrar la mayor cantidad posible de bugs.
 
-🌱 Explorando React, TypeScript, Python
-
-
-
-<br clear="both"/>
+Prefiero encontrar **pocos bugs**, pero completamente documentados, reproducibles y con suficiente contexto para facilitar el trabajo del desarrollador.
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+# 🎮 Portafolio Game QA
 
-<div align="center">
+## 🏆 Proyecto Principal
 
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+### 🎮 Asterfel Playtest
 
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+Proyecto realizado durante la Playtest pública de Asterfel.
 
-### 🔧 Herramientas
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-F05020?style=for-the-badge&logo=postman&logoColor=white" />
+Incluye:
 
-### 🌱 Aprendiendo
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+- ✔ Reportes técnicos
+- ✔ Análisis UX/UI
+- ✔ Gameplay Testing
+- ✔ Comparación entre Builds
+- ✔ Regression Testing
+- ✔ Video Review
+- ✔ Evidencia visual
+- ✔ Documentación técnica
 
-</div>
+📂 Repositorio
+
+👉
+
+https://github.com/Menegerdelen/qa-testing-portfolio
 
 ---
 
-## 📊 Estadísticas & Métricas
+# 🛠 Herramientas
 
-<div align="center">
+### QA
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=menegerdelen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20Estadísticas%20de%20GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown"/>
+<img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio"/>
+<img src="https://img.shields.io/badge/Steam_Performance_Overlay-000000?style=for-the-badge&logo=steam"/>
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menegerdelen&theme=tokyonight&hide_border=true&layout=compact&custom_title=💻%20Lenguajes%20Más%20Usados" />
+---
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=menegerdelen&theme=tokyonight&hide_border=true&fire=FF6B35&ring=FF6B35&currStreakLabel=FF6B35" />
+### Desarrollo
 
-</div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+
+---
+
+# 📚 Actualmente Aprendiendo
+
+### Game QA
+
+- Jira
+- TestRail
+- Confluence
+- Unreal Engine
+- Unity
+- Regression Testing
+- Test Case Design
+
+### Desarrollo
+
+- React
+- TypeScript
+- Python
+
+---
+
+# 📈 Actualmente Trabajando
+
+🎮 Construyendo un portafolio de Game QA.
+
+🐞 Documentando bugs con evidencia visual.
+
+📹 Creando video reviews de Playtests.
+
+📄 Comparando builds entre versiones.
+
+📚 Mejorando documentación técnica.
+
+---
+
+# 🎯 Objetivo Profesional
+
+Mi objetivo es desarrollarme profesionalmente como **Game QA Tester / QA Analyst**, participando en pruebas funcionales, exploratorias y de regresión para contribuir a mejorar la calidad de videojuegos.
+
+Mi experiencia en desarrollo web me permite comprender mejor la comunicación entre QA y desarrollo, entregando reportes claros, reproducibles y orientados a facilitar el proceso de corrección.
 
 ---
 
 <div align="center">
 
-### ⭐ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repos!
+## ⭐ Gracias por visitar mi perfil
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+*"Los videojuegos no solo se juegan. También se analizan, se rompen y se mejoran."*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 </div>
